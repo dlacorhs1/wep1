@@ -1,21 +1,20 @@
-  
-< 헤드 >
-  < 본체 >
+<head>
+  <body>
 
 
-< 메타  문자셋 = " utf-8 " >
+<meta charset="utf-8">
 
-< 제목 > 내 홈페이지 </ title >
-< H1 > < HREF = " index.html을 " > 환영합니다! </ h1 > 
-< ol >
-< 리 > < HREF = " 1.html " > 나는 누구인가? </ a > </ li > 
-< 리 > < HREF = " 2.html " > 여기는 뭐하는 곳인가? </ a > </ li > 
-</ ol >
-안녕하세요 wep
-안녕하세요 < strong > < u > 내 이름은 채 곤임 </ u > </ strong >
-< img  src = " 90d.jpg " 너비 = " % 5 " >
-안녕?
-< BR > < BR > 그래요 반갑습니다.
-< HREF = " http://naver.com " 대상 = " _blank " 제목 = " naver.com " > 네이버 들어가는 곳 </ > 
-</ 본문 >
-</ head >
+<title>나의 홈페이지</title>
+<h1><a href="index.html">환영합니다!</h1>
+<ol>
+<li><a href="1.html">나는 누구인가?</a></li>
+<li><a href="2.html">여기는 뭐하는 곳인가?</a></li>
+</ol>
+hello wep
+hello <strong><u>my name is chae gon Lim</u></strong>
+<img src="90d.jpg"width="%5">
+안녕 ?
+<br><br>그래요 반갑습니다.
+<a href="http://naver.com" target="_blank" title="naver.com">네이버 들어가는 곳</a>
+</body>
+</head>
