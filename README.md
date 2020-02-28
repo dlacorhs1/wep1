@@ -4,7 +4,7 @@
 
 <meta charset="utf-8">
 
-<title>나의 홈페이지</title>
+나의 홈페이지
 <h1><a href="index.html">환영합니다!</h1>
 <ol>
 <li><a href="1.html">나는 누구인가?</a></li>
