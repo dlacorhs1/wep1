@@ -12,7 +12,6 @@
 </ol>
 hello wep
 hello <strong><u>my name is chae gon Lim</u></strong>
-<img src="90d.jpg"width="%5">
 안녕 ?
 <br><br>그래요 반갑습니다.
 <a href="http://naver.com" target="_blank" title="naver.com">네이버 들어가는 곳</a>
